@@ -1,4 +1,4 @@
 program suma 
-    integer::x(4)=(/4,8,3,5/)
+    integer::x(7)=(/4,5,5,4,8,3,5/)
     print *,sum(x)
 end program suma
